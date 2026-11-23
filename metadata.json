@@ -1,0 +1,6 @@
+{
+  "name": "Trốn Tìm Backroom",
+  "description": "Game trốn tìm 3D nhiều người chơi phong cách Backrooms Level 0 lấy cảm hứng từ Năm Mười Việt Nam, xây dựng bằng Three.js và WebSocket.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
